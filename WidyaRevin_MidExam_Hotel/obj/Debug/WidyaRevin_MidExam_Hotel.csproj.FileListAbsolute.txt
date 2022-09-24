@@ -1,0 +1,14 @@
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.exe.config
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.exe
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.pdb
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.csproj.AssemblyReference.cache
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.csproj.CoreCompileInputs.cache
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.exe
+C:\Drivers\Apk\C#\EXAM\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.pdb
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.exe.config
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.exe
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\bin\Debug\WidyaRevin_MidExam_Hotel.pdb
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.csproj.AssemblyReference.cache
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.csproj.CoreCompileInputs.cache
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.exe
+C:\Drivers\Apk\C#\MidExam\WidyaRevin_MidExam_Hotel\WidyaRevin_MidExam_Hotel\obj\Debug\WidyaRevin_MidExam_Hotel.pdb
